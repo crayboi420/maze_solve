@@ -1,0 +1,1 @@
+A project to develop a maze solver with a GUI from a [boot.dev](https://www.boot.dev/tracks/backend) project
